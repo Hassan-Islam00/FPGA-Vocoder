@@ -7,7 +7,7 @@ A real‑time, multi‑band vocoder implemented on an Intel Cyclone V (5CSEMA5
 | Feature | Description |
 | --- | --- |
 | Multi‑band envelope extraction | Eight‑band Hilbert‑based envelope detector generated with MATLAB HDL Coder |
-| Streaming FFT/IFFT core | 1 024‑point Radix‑2² SDF FFT pipeline generated with MATLAB HDL Coder and operated at a 48 kHz frame rate |
+| Streaming FFT/IFFT core | 1024‑point Radix‑2² SDF FFT pipeline generated with MATLAB HDL Coder and operated at a 48 kHz frame rate |
 | Real‑time resynthesis | Carrier synthesis and DAC streaming with end‑to‑end latency of less than 2 ms |
 | Fixed‑point implementation | 16‑bit Q1.15 arithmetic throughout the signal chain |
 | Modular I/O | SPI‑style interfaces for an AD7908 8‑channel, 1 MSPS ADC and a 16‑bit audio DAC |
@@ -50,9 +50,9 @@ MATLAB/
 ├─ MATLAB_Concept_Code/     # Floating‑point reference model and plots
 └─ MATLAB_CodeGen/          # Fixed‑point conversion and HDL Codegen scripts
 Results
-├─ synthCarrier.wav         # Carrier signal used in vocoder
-├─ vocodedResult.wav        # Resulting vocoded audio
-└─ voiceModulator.wav       # Modulator signal used in vocoder
+├─ synthCarrier.wav/        # Carrier signal used in vocoder
+├─ vocodedResult.wav/       # Resulting vocoded audio
+└─ voiceModulator.wav/      # Modulator signal used in vocoder
 ```
 
 ## Development Workflow
@@ -70,4 +70,4 @@ Results
 | Envelope detector | 256 | 103 | 4 381 ALMs |
 | Carrier DAC interface | 32 | 212 | 196 ALMs |
 
-Figures generated with Quartus Prime 20.1 after timing closure.
+Figures generated with Quartus Prime 20.1
