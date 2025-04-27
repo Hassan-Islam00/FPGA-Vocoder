@@ -1,6 +1,6 @@
 # FPGA Vocoder
 
-This repository contains a real‑time, multi‑band vocoder implemented on an Intel Cyclone V (5CSEMA5F31C6) FPGA. A Texas Instruments TM4C123GH6PM microcontroller provides high‑speed audio sampling for verification and optional control tasks.
+A real‑time, multi‑band vocoder implemented on an Intel Cyclone V (5CSEMA5F31C6) FPGA. A Texas Instruments TM4C123GH6PM microcontroller provides high‑speed audio sampling for verification and optional control tasks.
 
 ## Key Features
 
