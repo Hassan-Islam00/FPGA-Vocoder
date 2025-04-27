@@ -1,0 +1,1427 @@
+Reading pref.tcl
+
+# 2020.1
+
+# do envelopeModulation_fixpt_tb_vsim_tb_compile.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:06 on Mar 28,2024
+# vlog envelopeModulation_fixpt_pkg.sv 
+# -- Compiling package envelopeModulation_fixpt_pkg
+# 
+# Top level modules:
+# 	--none--
+# End time: 20:58:06 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:06 on Mar 28,2024
+# vlog SimpleDualPortRAM_generic.sv 
+# -- Compiling module SimpleDualPortRAM_generic
+# 
+# Top level modules:
+# 	SimpleDualPortRAM_generic
+# End time: 20:58:06 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:06 on Mar 28,2024
+# vlog SDFCommutator1.sv 
+# -- Compiling module SDFCommutator1
+# 
+# Top level modules:
+# 	SDFCommutator1
+# End time: 20:58:06 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:06 on Mar 28,2024
+# vlog RADIX22FFT_SDF1_1.sv 
+# -- Compiling package RADIX22FFT_SDF1_1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF1_1
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF1_1
+# End time: 20:58:06 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:06 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_1.sv 
+# -- Compiling package RADIX22FFT_CTRL1_1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_1
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_1
+# End time: 20:58:06 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:06 on Mar 28,2024
+# vlog SDFCommutator2.sv 
+# -- Compiling package SDFCommutator2_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator2
+# 
+# Top level modules:
+# 	SDFCommutator2
+# End time: 20:58:06 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:06 on Mar 28,2024
+# vlog RADIX22FFT_SDF2_2.sv 
+# -- Compiling package RADIX22FFT_SDF2_2_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF2_2
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF2_2
+# End time: 20:58:06 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:06 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_2.sv 
+# -- Compiling package RADIX22FFT_CTRL1_2_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_2
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_2
+# End time: 20:58:06 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:06 on Mar 28,2024
+# vlog TWDLROM_3_1.sv 
+# -- Compiling package TWDLROM_3_1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module TWDLROM_3_1
+# 
+# Top level modules:
+# 	TWDLROM_3_1
+# End time: 20:58:06 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:06 on Mar 28,2024
+# vlog Complex4Multiply.sv 
+# -- Compiling package Complex4Multiply_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module Complex4Multiply
+# 
+# Top level modules:
+# 	Complex4Multiply
+# End time: 20:58:06 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:06 on Mar 28,2024
+# vlog SDFCommutator3.sv 
+# -- Compiling package SDFCommutator3_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator3
+# 
+# Top level modules:
+# 	SDFCommutator3
+# End time: 20:58:06 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:06 on Mar 28,2024
+# vlog RADIX22FFT_SDF1_3.sv 
+# -- Compiling package RADIX22FFT_SDF1_3_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF1_3
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF1_3
+# End time: 20:58:06 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:06 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_3.sv 
+# -- Compiling package RADIX22FFT_CTRL1_3_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_3
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_3
+# End time: 20:58:06 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:07 on Mar 28,2024
+# vlog SDFCommutator4.sv 
+# -- Compiling package SDFCommutator4_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator4
+# 
+# Top level modules:
+# 	SDFCommutator4
+# End time: 20:58:07 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:07 on Mar 28,2024
+# vlog RADIX22FFT_SDF2_4.sv 
+# -- Compiling package RADIX22FFT_SDF2_4_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF2_4
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF2_4
+# End time: 20:58:07 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:07 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_4.sv 
+# -- Compiling package RADIX22FFT_CTRL1_4_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_4
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_4
+# End time: 20:58:07 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:07 on Mar 28,2024
+# vlog TWDLROM_5_1.sv 
+# -- Compiling package TWDLROM_5_1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module TWDLROM_5_1
+# 
+# Top level modules:
+# 	TWDLROM_5_1
+# End time: 20:58:07 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:07 on Mar 28,2024
+# vlog Complex4Multiply_block.sv 
+# -- Compiling package Complex4Multiply_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module Complex4Multiply_block
+# 
+# Top level modules:
+# 	Complex4Multiply_block
+# End time: 20:58:07 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:07 on Mar 28,2024
+# vlog SDFCommutator5.sv 
+# -- Compiling package SDFCommutator5_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator5
+# 
+# Top level modules:
+# 	SDFCommutator5
+# End time: 20:58:07 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:07 on Mar 28,2024
+# vlog RADIX22FFT_SDF1_5.sv 
+# -- Compiling package RADIX22FFT_SDF1_5_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF1_5
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF1_5
+# End time: 20:58:07 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:07 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_5.sv 
+# -- Compiling package RADIX22FFT_CTRL1_5_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_5
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_5
+# End time: 20:58:07 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:07 on Mar 28,2024
+# vlog SDFCommutator6.sv 
+# -- Compiling package SDFCommutator6_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator6
+# 
+# Top level modules:
+# 	SDFCommutator6
+# End time: 20:58:07 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:07 on Mar 28,2024
+# vlog RADIX22FFT_SDF2_6.sv 
+# -- Compiling package RADIX22FFT_SDF2_6_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF2_6
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF2_6
+# End time: 20:58:07 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:07 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_6.sv 
+# -- Compiling package RADIX22FFT_CTRL1_6_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_6
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_6
+# End time: 20:58:08 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:08 on Mar 28,2024
+# vlog TWDLROM_7_1.sv 
+# -- Compiling package TWDLROM_7_1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module TWDLROM_7_1
+# 
+# Top level modules:
+# 	TWDLROM_7_1
+# End time: 20:58:08 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:08 on Mar 28,2024
+# vlog Complex4Multiply_block1.sv 
+# -- Compiling package Complex4Multiply_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module Complex4Multiply_block1
+# 
+# Top level modules:
+# 	Complex4Multiply_block1
+# End time: 20:58:08 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:08 on Mar 28,2024
+# vlog SDFCommutator7.sv 
+# -- Compiling package SDFCommutator7_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator7
+# 
+# Top level modules:
+# 	SDFCommutator7
+# End time: 20:58:08 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:08 on Mar 28,2024
+# vlog RADIX22FFT_SDF1_7.sv 
+# -- Compiling package RADIX22FFT_SDF1_7_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF1_7
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF1_7
+# End time: 20:58:08 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:08 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_7.sv 
+# -- Compiling package RADIX22FFT_CTRL1_7_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_7
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_7
+# End time: 20:58:08 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:08 on Mar 28,2024
+# vlog SDFCommutator8.sv 
+# -- Compiling package SDFCommutator8_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator8
+# 
+# Top level modules:
+# 	SDFCommutator8
+# End time: 20:58:08 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:08 on Mar 28,2024
+# vlog RADIX22FFT_SDF2_8.sv 
+# -- Compiling package RADIX22FFT_SDF2_8_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF2_8
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF2_8
+# End time: 20:58:08 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:08 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_8.sv 
+# -- Compiling package RADIX22FFT_CTRL1_8_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_8
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_8
+# End time: 20:58:08 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:08 on Mar 28,2024
+# vlog TWDLROM_9_1.sv 
+# -- Compiling package TWDLROM_9_1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module TWDLROM_9_1
+# 
+# Top level modules:
+# 	TWDLROM_9_1
+# End time: 20:58:09 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:09 on Mar 28,2024
+# vlog Complex4Multiply_block2.sv 
+# -- Compiling package Complex4Multiply_block2_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module Complex4Multiply_block2
+# 
+# Top level modules:
+# 	Complex4Multiply_block2
+# End time: 20:58:09 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:09 on Mar 28,2024
+# vlog SDFCommutator9.sv 
+# -- Compiling package SDFCommutator9_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator9
+# 
+# Top level modules:
+# 	SDFCommutator9
+# End time: 20:58:09 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:09 on Mar 28,2024
+# vlog RADIX22FFT_SDF1_9.sv 
+# -- Compiling package RADIX22FFT_SDF1_9_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF1_9
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF1_9
+# End time: 20:58:09 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:09 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_9.sv 
+# -- Compiling package RADIX22FFT_CTRL1_9_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_9
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_9
+# End time: 20:58:09 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:09 on Mar 28,2024
+# vlog SDFCommutator10.sv 
+# -- Compiling package SDFCommutator10_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator10
+# 
+# Top level modules:
+# 	SDFCommutator10
+# End time: 20:58:09 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:09 on Mar 28,2024
+# vlog RADIX22FFT_SDF2_10.sv 
+# -- Compiling package RADIX22FFT_SDF2_10_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF2_10
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF2_10
+# End time: 20:58:09 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:09 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_10.sv 
+# -- Compiling package RADIX22FFT_CTRL1_10_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_10
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_10
+# End time: 20:58:09 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:09 on Mar 28,2024
+# vlog dsphdl_IFFT.sv 
+# -- Compiling package dsphdl_IFFT_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module dsphdl_IFFT
+# 
+# Top level modules:
+# 	dsphdl_IFFT
+# End time: 20:58:09 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:09 on Mar 28,2024
+# vlog Quadrant_Mapper.sv 
+# -- Compiling package Quadrant_Mapper_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module Quadrant_Mapper
+# 
+# Top level modules:
+# 	Quadrant_Mapper
+# End time: 20:58:09 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:09 on Mar 28,2024
+# vlog CordicKernelMag.sv 
+# -- Compiling package CordicKernelMag_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module CordicKernelMag
+# 
+# Top level modules:
+# 	CordicKernelMag
+# End time: 20:58:09 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:09 on Mar 28,2024
+# vlog Quadrant_Correction.sv 
+# -- Compiling package Quadrant_Correction_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module Quadrant_Correction
+# 
+# Top level modules:
+# 	Quadrant_Correction
+# End time: 20:58:10 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:10 on Mar 28,2024
+# vlog HDL_CMA_core.sv 
+# -- Compiling package HDL_CMA_core_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module HDL_CMA_core
+# 
+# Top level modules:
+# 	HDL_CMA_core
+# End time: 20:58:10 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:10 on Mar 28,2024
+# vlog Quadrant_Mapper_block.sv 
+# -- Compiling package Quadrant_Mapper_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module Quadrant_Mapper_block
+# 
+# Top level modules:
+# 	Quadrant_Mapper_block
+# End time: 20:58:10 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:10 on Mar 28,2024
+# vlog CordicKernelMag_block.sv 
+# -- Compiling package CordicKernelMag_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module CordicKernelMag_block
+# 
+# Top level modules:
+# 	CordicKernelMag_block
+# End time: 20:58:10 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:10 on Mar 28,2024
+# vlog HDL_CMA_core_block.sv 
+# -- Compiling package HDL_CMA_core_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module HDL_CMA_core_block
+# 
+# Top level modules:
+# 	HDL_CMA_core_block
+# End time: 20:58:10 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:10 on Mar 28,2024
+# vlog SDFCommutator1_block.sv 
+# -- Compiling package SDFCommutator1_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator1_block
+# 
+# Top level modules:
+# 	SDFCommutator1_block
+# End time: 20:58:10 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:10 on Mar 28,2024
+# vlog RADIX22FFT_SDF1_1_block.sv 
+# -- Compiling package RADIX22FFT_SDF1_1_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF1_1_block
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF1_1_block
+# End time: 20:58:10 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:10 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_1_block.sv 
+# -- Compiling package RADIX22FFT_CTRL1_1_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_1_block
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_1_block
+# End time: 20:58:10 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:10 on Mar 28,2024
+# vlog SDFCommutator2_block.sv 
+# -- Compiling package SDFCommutator2_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator2_block
+# 
+# Top level modules:
+# 	SDFCommutator2_block
+# End time: 20:58:10 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:10 on Mar 28,2024
+# vlog RADIX22FFT_SDF2_2_block.sv 
+# -- Compiling package RADIX22FFT_SDF2_2_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF2_2_block
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF2_2_block
+# End time: 20:58:10 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:10 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_2_block.sv 
+# -- Compiling package RADIX22FFT_CTRL1_2_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_2_block
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_2_block
+# End time: 20:58:11 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:11 on Mar 28,2024
+# vlog TWDLROM_3_1_block.sv 
+# -- Compiling package TWDLROM_3_1_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module TWDLROM_3_1_block
+# 
+# Top level modules:
+# 	TWDLROM_3_1_block
+# End time: 20:58:11 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:11 on Mar 28,2024
+# vlog Complex4Multiply_block3.sv 
+# -- Compiling package Complex4Multiply_block3_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module Complex4Multiply_block3
+# 
+# Top level modules:
+# 	Complex4Multiply_block3
+# End time: 20:58:11 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:11 on Mar 28,2024
+# vlog SDFCommutator3_block.sv 
+# -- Compiling package SDFCommutator3_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator3_block
+# 
+# Top level modules:
+# 	SDFCommutator3_block
+# End time: 20:58:11 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:11 on Mar 28,2024
+# vlog RADIX22FFT_SDF1_3_block.sv 
+# -- Compiling package RADIX22FFT_SDF1_3_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF1_3_block
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF1_3_block
+# End time: 20:58:11 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:11 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_3_block.sv 
+# -- Compiling package RADIX22FFT_CTRL1_3_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_3_block
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_3_block
+# End time: 20:58:11 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:11 on Mar 28,2024
+# vlog SDFCommutator4_block.sv 
+# -- Compiling package SDFCommutator4_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator4_block
+# 
+# Top level modules:
+# 	SDFCommutator4_block
+# End time: 20:58:11 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:11 on Mar 28,2024
+# vlog RADIX22FFT_SDF2_4_block.sv 
+# -- Compiling package RADIX22FFT_SDF2_4_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF2_4_block
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF2_4_block
+# End time: 20:58:11 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:11 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_4_block.sv 
+# -- Compiling package RADIX22FFT_CTRL1_4_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_4_block
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_4_block
+# End time: 20:58:12 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:12 on Mar 28,2024
+# vlog TWDLROM_5_1_block.sv 
+# -- Compiling package TWDLROM_5_1_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module TWDLROM_5_1_block
+# 
+# Top level modules:
+# 	TWDLROM_5_1_block
+# End time: 20:58:12 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:12 on Mar 28,2024
+# vlog Complex4Multiply_block4.sv 
+# -- Compiling package Complex4Multiply_block4_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module Complex4Multiply_block4
+# 
+# Top level modules:
+# 	Complex4Multiply_block4
+# End time: 20:58:12 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:12 on Mar 28,2024
+# vlog SDFCommutator5_block.sv 
+# -- Compiling package SDFCommutator5_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator5_block
+# 
+# Top level modules:
+# 	SDFCommutator5_block
+# End time: 20:58:12 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:12 on Mar 28,2024
+# vlog RADIX22FFT_SDF1_5_block.sv 
+# -- Compiling package RADIX22FFT_SDF1_5_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF1_5_block
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF1_5_block
+# End time: 20:58:12 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:12 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_5_block.sv 
+# -- Compiling package RADIX22FFT_CTRL1_5_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_5_block
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_5_block
+# End time: 20:58:12 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:12 on Mar 28,2024
+# vlog SDFCommutator6_block.sv 
+# -- Compiling package SDFCommutator6_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator6_block
+# 
+# Top level modules:
+# 	SDFCommutator6_block
+# End time: 20:58:12 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:12 on Mar 28,2024
+# vlog RADIX22FFT_SDF2_6_block.sv 
+# -- Compiling package RADIX22FFT_SDF2_6_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF2_6_block
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF2_6_block
+# End time: 20:58:12 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:12 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_6_block.sv 
+# -- Compiling package RADIX22FFT_CTRL1_6_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_6_block
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_6_block
+# End time: 20:58:12 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:12 on Mar 28,2024
+# vlog TWDLROM_7_1_block.sv 
+# -- Compiling package TWDLROM_7_1_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module TWDLROM_7_1_block
+# 
+# Top level modules:
+# 	TWDLROM_7_1_block
+# End time: 20:58:12 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:12 on Mar 28,2024
+# vlog Complex4Multiply_block5.sv 
+# -- Compiling package Complex4Multiply_block5_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module Complex4Multiply_block5
+# 
+# Top level modules:
+# 	Complex4Multiply_block5
+# End time: 20:58:13 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:13 on Mar 28,2024
+# vlog SDFCommutator7_block.sv 
+# -- Compiling package SDFCommutator7_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator7_block
+# 
+# Top level modules:
+# 	SDFCommutator7_block
+# End time: 20:58:13 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:13 on Mar 28,2024
+# vlog RADIX22FFT_SDF1_7_block.sv 
+# -- Compiling package RADIX22FFT_SDF1_7_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF1_7_block
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF1_7_block
+# End time: 20:58:13 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:13 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_7_block.sv 
+# -- Compiling package RADIX22FFT_CTRL1_7_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_7_block
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_7_block
+# End time: 20:58:13 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:13 on Mar 28,2024
+# vlog SDFCommutator8_block.sv 
+# -- Compiling package SDFCommutator8_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator8_block
+# 
+# Top level modules:
+# 	SDFCommutator8_block
+# End time: 20:58:13 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:13 on Mar 28,2024
+# vlog RADIX22FFT_SDF2_8_block.sv 
+# -- Compiling package RADIX22FFT_SDF2_8_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF2_8_block
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF2_8_block
+# End time: 20:58:13 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:13 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_8_block.sv 
+# -- Compiling package RADIX22FFT_CTRL1_8_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_8_block
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_8_block
+# End time: 20:58:13 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:13 on Mar 28,2024
+# vlog TWDLROM_9_1_block.sv 
+# -- Compiling package TWDLROM_9_1_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module TWDLROM_9_1_block
+# 
+# Top level modules:
+# 	TWDLROM_9_1_block
+# End time: 20:58:13 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:13 on Mar 28,2024
+# vlog Complex4Multiply_block6.sv 
+# -- Compiling package Complex4Multiply_block6_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module Complex4Multiply_block6
+# 
+# Top level modules:
+# 	Complex4Multiply_block6
+# End time: 20:58:13 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:13 on Mar 28,2024
+# vlog SDFCommutator9_block.sv 
+# -- Compiling package SDFCommutator9_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator9_block
+# 
+# Top level modules:
+# 	SDFCommutator9_block
+# End time: 20:58:13 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:13 on Mar 28,2024
+# vlog RADIX22FFT_SDF1_9_block.sv 
+# -- Compiling package RADIX22FFT_SDF1_9_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF1_9_block
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF1_9_block
+# End time: 20:58:14 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:14 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_9_block.sv 
+# -- Compiling package RADIX22FFT_CTRL1_9_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_9_block
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_9_block
+# End time: 20:58:14 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:14 on Mar 28,2024
+# vlog SDFCommutator10_block.sv 
+# -- Compiling package SDFCommutator10_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator10_block
+# 
+# Top level modules:
+# 	SDFCommutator10_block
+# End time: 20:58:14 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:14 on Mar 28,2024
+# vlog RADIX22FFT_SDF2_10_block.sv 
+# -- Compiling package RADIX22FFT_SDF2_10_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF2_10_block
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF2_10_block
+# End time: 20:58:14 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:14 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_10_block.sv 
+# -- Compiling package RADIX22FFT_CTRL1_10_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_10_block
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_10_block
+# End time: 20:58:14 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:14 on Mar 28,2024
+# vlog RADIX2FFT_bitNatural.sv 
+# -- Compiling package RADIX2FFT_bitNatural_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX2FFT_bitNatural
+# 
+# Top level modules:
+# 	RADIX2FFT_bitNatural
+# End time: 20:58:14 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:14 on Mar 28,2024
+# vlog dsphdl_FFT.sv 
+# -- Compiling package dsphdl_FFT_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module dsphdl_FFT
+# 
+# Top level modules:
+# 	dsphdl_FFT
+# End time: 20:58:14 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:14 on Mar 28,2024
+# vlog SDFCommutator1_block1.sv 
+# -- Compiling package SDFCommutator1_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator1_block1
+# 
+# Top level modules:
+# 	SDFCommutator1_block1
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog RADIX22FFT_SDF1_1_block1.sv 
+# -- Compiling package RADIX22FFT_SDF1_1_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF1_1_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF1_1_block1
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_1_block1.sv 
+# -- Compiling package RADIX22FFT_CTRL1_1_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_1_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_1_block1
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog SDFCommutator2_block1.sv 
+# -- Compiling package SDFCommutator2_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator2_block1
+# 
+# Top level modules:
+# 	SDFCommutator2_block1
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog RADIX22FFT_SDF2_2_block1.sv 
+# -- Compiling package RADIX22FFT_SDF2_2_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF2_2_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF2_2_block1
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_2_block1.sv 
+# -- Compiling package RADIX22FFT_CTRL1_2_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_2_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_2_block1
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog TWDLROM_3_1_block1.sv 
+# -- Compiling package TWDLROM_3_1_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module TWDLROM_3_1_block1
+# 
+# Top level modules:
+# 	TWDLROM_3_1_block1
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog Complex4Multiply_block7.sv 
+# -- Compiling package Complex4Multiply_block7_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module Complex4Multiply_block7
+# 
+# Top level modules:
+# 	Complex4Multiply_block7
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog SDFCommutator3_block1.sv 
+# -- Compiling package SDFCommutator3_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator3_block1
+# 
+# Top level modules:
+# 	SDFCommutator3_block1
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog RADIX22FFT_SDF1_3_block1.sv 
+# -- Compiling package RADIX22FFT_SDF1_3_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF1_3_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF1_3_block1
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_3_block1.sv 
+# -- Compiling package RADIX22FFT_CTRL1_3_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_3_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_3_block1
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog SDFCommutator4_block1.sv 
+# -- Compiling package SDFCommutator4_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator4_block1
+# 
+# Top level modules:
+# 	SDFCommutator4_block1
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog RADIX22FFT_SDF2_4_block1.sv 
+# -- Compiling package RADIX22FFT_SDF2_4_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF2_4_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF2_4_block1
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_4_block1.sv 
+# -- Compiling package RADIX22FFT_CTRL1_4_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_4_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_4_block1
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog TWDLROM_5_1_block1.sv 
+# -- Compiling package TWDLROM_5_1_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module TWDLROM_5_1_block1
+# 
+# Top level modules:
+# 	TWDLROM_5_1_block1
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog Complex4Multiply_block8.sv 
+# -- Compiling package Complex4Multiply_block8_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module Complex4Multiply_block8
+# 
+# Top level modules:
+# 	Complex4Multiply_block8
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog SDFCommutator5_block1.sv 
+# -- Compiling package SDFCommutator5_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator5_block1
+# 
+# Top level modules:
+# 	SDFCommutator5_block1
+# End time: 20:58:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:15 on Mar 28,2024
+# vlog RADIX22FFT_SDF1_5_block1.sv 
+# -- Compiling package RADIX22FFT_SDF1_5_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF1_5_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF1_5_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_5_block1.sv 
+# -- Compiling package RADIX22FFT_CTRL1_5_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_5_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_5_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog SDFCommutator6_block1.sv 
+# -- Compiling package SDFCommutator6_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator6_block1
+# 
+# Top level modules:
+# 	SDFCommutator6_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog RADIX22FFT_SDF2_6_block1.sv 
+# -- Compiling package RADIX22FFT_SDF2_6_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF2_6_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF2_6_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_6_block1.sv 
+# -- Compiling package RADIX22FFT_CTRL1_6_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_6_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_6_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog TWDLROM_7_1_block1.sv 
+# -- Compiling package TWDLROM_7_1_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module TWDLROM_7_1_block1
+# 
+# Top level modules:
+# 	TWDLROM_7_1_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog Complex4Multiply_block9.sv 
+# -- Compiling package Complex4Multiply_block9_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module Complex4Multiply_block9
+# 
+# Top level modules:
+# 	Complex4Multiply_block9
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog SDFCommutator7_block1.sv 
+# -- Compiling package SDFCommutator7_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator7_block1
+# 
+# Top level modules:
+# 	SDFCommutator7_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog RADIX22FFT_SDF1_7_block1.sv 
+# -- Compiling package RADIX22FFT_SDF1_7_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF1_7_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF1_7_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_7_block1.sv 
+# -- Compiling package RADIX22FFT_CTRL1_7_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_7_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_7_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog SDFCommutator8_block1.sv 
+# -- Compiling package SDFCommutator8_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator8_block1
+# 
+# Top level modules:
+# 	SDFCommutator8_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog RADIX22FFT_SDF2_8_block1.sv 
+# -- Compiling package RADIX22FFT_SDF2_8_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF2_8_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF2_8_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_8_block1.sv 
+# -- Compiling package RADIX22FFT_CTRL1_8_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_8_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_8_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog TWDLROM_9_1_block1.sv 
+# -- Compiling package TWDLROM_9_1_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module TWDLROM_9_1_block1
+# 
+# Top level modules:
+# 	TWDLROM_9_1_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog Complex4Multiply_block10.sv 
+# -- Compiling package Complex4Multiply_block10_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module Complex4Multiply_block10
+# 
+# Top level modules:
+# 	Complex4Multiply_block10
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog SDFCommutator9_block1.sv 
+# -- Compiling package SDFCommutator9_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator9_block1
+# 
+# Top level modules:
+# 	SDFCommutator9_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog RADIX22FFT_SDF1_9_block1.sv 
+# -- Compiling package RADIX22FFT_SDF1_9_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF1_9_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF1_9_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_9_block1.sv 
+# -- Compiling package RADIX22FFT_CTRL1_9_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_9_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_9_block1
+# End time: 20:58:16 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:16 on Mar 28,2024
+# vlog SDFCommutator10_block1.sv 
+# -- Compiling package SDFCommutator10_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module SDFCommutator10_block1
+# 
+# Top level modules:
+# 	SDFCommutator10_block1
+# End time: 20:58:17 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:17 on Mar 28,2024
+# vlog RADIX22FFT_SDF2_10_block1.sv 
+# -- Compiling package RADIX22FFT_SDF2_10_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_SDF2_10_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_SDF2_10_block1
+# End time: 20:58:17 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:17 on Mar 28,2024
+# vlog RADIX22FFT_CTRL1_10_block1.sv 
+# -- Compiling package RADIX22FFT_CTRL1_10_block1_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX22FFT_CTRL1_10_block1
+# 
+# Top level modules:
+# 	RADIX22FFT_CTRL1_10_block1
+# End time: 20:58:17 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:17 on Mar 28,2024
+# vlog RADIX2FFT_bitNatural_block.sv 
+# -- Compiling package RADIX2FFT_bitNatural_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module RADIX2FFT_bitNatural_block
+# 
+# Top level modules:
+# 	RADIX2FFT_bitNatural_block
+# End time: 20:58:17 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:17 on Mar 28,2024
+# vlog dsphdl_FFT_block.sv 
+# -- Compiling package dsphdl_FFT_block_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module dsphdl_FFT_block
+# 
+# Top level modules:
+# 	dsphdl_FFT_block
+# End time: 20:58:17 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:17 on Mar 28,2024
+# vlog envelopeModulation_fixpt.sv 
+# -- Compiling package envelopeModulation_fixpt_sv_unit
+# -- Importing package envelopeModulation_fixpt_pkg
+# -- Compiling module envelopeModulation_fixpt
+# 
+# Top level modules:
+# 	envelopeModulation_fixpt
+# End time: 20:58:17 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:58:17 on Mar 28,2024
+# vlog envelopeModulation_fixpt_tb.sv 
+# -- Compiling module envelopeModulation_fixpt_tb
+# 
+# Top level modules:
+# 	envelopeModulation_fixpt_tb
+# End time: 20:58:17 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

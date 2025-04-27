@@ -1,0 +1,1 @@
+The TM4C123GH6PM TIVA C series microcontroller is used for testing, debugging, and measuring output values of the FPGA. 

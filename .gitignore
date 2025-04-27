@@ -1,0 +1,37 @@
+# macOS Finder cruft
+.DS_Store
+__MACOSX/
+
+# ModelSim / Questa simulation artifacts
+work/
+*.wlf
+transcript
+*.cr.mti
+*_lib*.qpg
+*_lib*.qdb
+*_lib*.qtl
+_vmake
+_info
+
+# MATLAB HDL Coder & Fixed‑Point Designer outputs
+*/fixpt/
+cache_dir/
+fxptmp/
+*.mexw64
+*.mat
+*.html
+
+# Quartus GUI / project metadata
+*.qws
+*.qpf
+
+# Auto‑generated IP glue / black‑box wrappers
+*_bb.v
+*_inst.v
+
+# Data captures & test vectors
+*.dat
+*.dwf3work
+
+# ModelSim project files
+*.mpf
