@@ -49,6 +49,10 @@ FPGA/                       # Quartus project, RTL and test benches
 MATLAB/
 ├─ MATLAB_Concept_Code/     # Floating‑point reference model and plots
 └─ MATLAB_CodeGen/          # Fixed‑point conversion and HDL Codegen scripts
+Results
+├─ synthCarrier.wav         # Carrier signal used in vocoder
+├─ vocodedResult.wav        # Resulting vocoded audio
+└─ voiceModulator.wav       # Modulator signal used in vocoder
 ```
 
 ## Development Workflow
